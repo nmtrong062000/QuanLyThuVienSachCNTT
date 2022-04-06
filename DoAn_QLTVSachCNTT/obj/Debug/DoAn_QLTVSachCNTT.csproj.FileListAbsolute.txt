@@ -1,0 +1,274 @@
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.exe.config
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.exe
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.pdb
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Data.v19.1.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Data.v19.1.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csprojAssemblyReference.cache
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmMain.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.Properties.Resources.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.GenerateResource.cache
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.exe.licenses
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.CoreCompileInputs.cache
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.CopyComplete
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.exe
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.pdb
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDangNhap.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDoiMatKhau.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmSach.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDocGia.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThuThu.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmNCC.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThongKeSach.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThongKeDocGia.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmTaiKhoan.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmMuonTra.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmCTPhieuMuon.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmGioiThieu.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmQuyDinh.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.Shared.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ShockwaveFlashObjects.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\stdole.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSSach.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSNV.resources
+D:\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSDG.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.exe.config
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.exe
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.pdb
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ShockwaveFlashObjects.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\stdole.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csprojAssemblyReference.cache
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSDG.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSNV.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSSach.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmCTPhieuMuon.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDangNhap.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmGioiThieu.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmQuyDinh.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmMuonTra.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDocGia.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDoiMatKhau.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmMain.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmNCC.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmSach.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmTaiKhoan.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThongKeSach.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThongKeDocGia.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThuThu.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.Properties.Resources.resources
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.GenerateResource.cache
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.exe.licenses
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.CoreCompileInputs.cache
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.CopyComplete
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.exe
+D:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.pdb
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.exe.config
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.exe
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DoAn_QLTVSachCNTT.pdb
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.Shared.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Data.v19.1.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ShockwaveFlashObjects.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\stdole.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csprojAssemblyReference.cache
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSDG.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSNV.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDSSach.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmCTPhieuMuon.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDangNhap.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmGioiThieu.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmQuyDinh.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmMuonTra.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDocGia.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmDoiMatKhau.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmMain.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmNCC.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmSach.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmTaiKhoan.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThongKeSach.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThongKeDocGia.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.frmThuThu.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.Properties.Resources.resources
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.GenerateResource.cache
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.exe.licenses
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.CoreCompileInputs.cache
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.csproj.CopyComplete
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.exe
+E:\Nam 2\HKII_2019-2020\LTWIN\DoAn\DoAn_QLTVSachCNTT\DoAn_QLTVSachCNTT\obj\Debug\DoAn_QLTVSachCNTT.pdb
